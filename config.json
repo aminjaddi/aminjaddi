@@ -1,0 +1,22 @@
+{
+  "version": "3.5",
+  "status": "active",
+  "menu": {
+    "title": "Amin Jaddi",
+    "color": "#00FF00",
+    "position": "right",
+    "size": "medium",
+    "icon": "⚡"
+  },
+  "features": {
+    "aimbot": {"enabled": true, "strength": 95, "fov": 150, "smooth": 80},
+    "headshot": {"enabled": true, "accuracy": 98, "auto_aim": true, "bone": "head"},
+    "wallhack": {"enabled": true, "color_enemy": "#FF0000", "color_ally": "#00FF00", "distance": 200, "chams": true},
+    "speedhack": {"enabled": true, "multiplier": 1.8, "max": 2.5},
+    "norecoil": {"enabled": true, "value": 0},
+    "magicbullet": {"enabled": true, "damage": 999},
+    "antiban": {"enabled": true, "bypass": true, "hide_logs": true},
+    "esp": {"enabled": true, "show_boxes": true, "show_lines": true, "show_distance": true, "show_health": true}
+  },
+  "updates": {"last_update": "2025-01-15", "next_update": "2025-01-22", "changelog": "تحسين aimbot + اضافة esp"}
+}
